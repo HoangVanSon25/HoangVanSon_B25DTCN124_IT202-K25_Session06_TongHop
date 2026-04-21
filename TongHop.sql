@@ -71,4 +71,4 @@ order by h.rating desc , Tong_tien desc
 -- Quy trình chống bẫy:
 -- Xử lý số âm 
 -- nên dùng where nên lọc dữ liệu trước khi tính toan sẽ giúp nó giảm khối lượng bản ghi ộng dồn 
--- tránh sai số Tại vì khi sum tính thì nó sẽ khong cần trừ những số âm này (loại bỏ total_price < 0)
+-- tránh sai số Tại vì khi sum tính thì nó sẽ khong cần trừ những số âm này (loại bỏ total_price < 0
